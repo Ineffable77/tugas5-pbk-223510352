@@ -1,5 +1,5 @@
 <template>
-  <div class="q-pa-md q-gutter-sm flex-between">
+  <div class="q-pa-md q-gutter-sm flex-between aa">
     <div class="left">
       <q-avatar class="profile">
         <q-icon name="account_circle" size="45px" />
@@ -380,5 +380,9 @@ export default {
   width: 100%;
   height: 200px;
   object-fit: cover;
+}
+
+.aa{
+  max-width: 100%;
 }
 </style>
