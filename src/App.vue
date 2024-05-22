@@ -58,6 +58,7 @@
         class="same-size-image"
       />
       <q-card-section>
+        <div class="text-overline text-orange-9">Rp 30.000.000</div>
         <div class="text-h5 q-mt-sm q-mb-xs">RTX 4090</div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -92,6 +93,7 @@
         class="same-size-image"
       />
       <q-card-section>
+        <div class="text-overline text-orange-9">Rp 6.000.00</div>
         <div class="text-h5 q-mt-sm q-mb-xs">Motherboard Asrock</div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -126,7 +128,8 @@
         class="same-size-image"
       />
       <q-card-section>
-        <div class="text-h5 q-mt-sm q-mb-xs">RAM Sasmsung</div>
+        <div class="text-overline text-orange-9">Rp 1.200.00</div>
+        <div class="text-h5 q-mt-sm q-mb-xs">RAM 64GB Samsung</div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </div>
@@ -160,6 +163,7 @@
         class="same-size-image"
       />
       <q-card-section>
+        <div class="text-overline text-orange-9">Rp 1.050.000</div>
         <div class="text-h5 q-mt-sm q-mb-xs">SSD Transcend 1TB</div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -194,6 +198,7 @@
         class="same-size-image"
       />
       <q-card-section>
+        <div class="text-overline text-orange-9">Rp 25.000.000</div>
         <div class="text-h5 q-mt-sm q-mb-xs">Monitor ASUS ROG 540hz</div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -228,6 +233,7 @@
         class="same-size-image"
       />
       <q-card-section>
+        <div class="text-overline text-orange-9">Rp 899.999</div>
         <div class="text-h5 q-mt-sm q-mb-xs">Keyboard AJAZZ ak820 pro </div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -262,6 +268,7 @@
         class="same-size-image"
       />
       <q-card-section>
+        <div class="text-overline text-orange-9">Rp 650.000</div>
         <div class="text-h5 q-mt-sm q-mb-xs">Mouse GOZO</div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -296,6 +303,7 @@
         class="same-size-image"
       />
       <q-card-section>
+        <div class="text-overline text-orange-9">Rp 699.999</div>
         <div class="text-h5 q-mt-sm q-mb-xs">Gamepad 8bitdo ultimate</div>
         <div class="text-caption text-grey">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
